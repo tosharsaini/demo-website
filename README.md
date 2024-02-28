@@ -1,3 +1,3 @@
 # demo-website
 this is my first git
-authhur toshar sainni
+writter toshar saini
